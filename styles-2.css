@@ -1,0 +1,13 @@
+body {
+    background:pink;
+    font-family:Arial, Helvetica, sans-serif;
+} 
+
+.assignment {
+    display:flex;
+}
+
+h1 {
+    color:darkorchid;
+    text-align:center;
+}
