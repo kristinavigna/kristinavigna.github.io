@@ -5,6 +5,7 @@ body {
 
 .assignment{
     display:flex;
+    padding: 10px;
 }
 
 hl{
