@@ -1,21 +1,27 @@
 body {
-    background:pink;
+    background:#A6033F;
     font-family:Arial, Helvetica, sans-serif;
 } 
-
+ 
 .assignment {
     display:flex;
     padding:10px;
     margin:10px;
-    background:lightgray;
+    background:#CCCCCC;
 }
 
 .assignment img{
     width:200px;
-    padding:10px;
+    border:2px solid #333333;
+    margin-right:20px;
 }
 
 h1 {
-    color:darkorchid;
+    color:#010D00;
     text-align:center;
+}
+
+a{
+    text-decoration:none;
+    color:#DE264C;
 }
