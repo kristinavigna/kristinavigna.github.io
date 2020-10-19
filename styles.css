@@ -29,3 +29,8 @@ a{
     text-decoration:none;
     color:#DE264C;
 }
+
+.assignment a:hover{
+    color:rgb(58, 52, 52);
+
+}
